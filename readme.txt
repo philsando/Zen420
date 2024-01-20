@@ -1,6 +1,6 @@
 What Is This?
 
-This mod adds an immersive sleeping feature to the game.
+This mod adds an immersive sleeping feature to the game by ZENARCHIST.. Im just having fun with it
 
 It is heavily based on and inspired by Lucian's old Medical Attention mod, so most of the credit goes to him.
 
